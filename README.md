@@ -19,4 +19,5 @@ No data is stored or sent to external servers.
 * Disadvantages is Needd to alwasy ON your Sever
   
 # 📸 Screenshot
-<img width="1919" height="1011" alt="image" src="https://github.com/user-attachments/assets/70c1ecb6-41fa-4dd8-a9f3-e49e01340f7b" />
+![Uploading Screenshot 2026-05-02 111635.png…]()
+
